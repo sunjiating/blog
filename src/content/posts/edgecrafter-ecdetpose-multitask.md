@@ -1,6 +1,6 @@
 ---
 author: SunJiating
-pubDatetime: 2026-10-20T10:30:00Z
+pubDatetime: 2026-10-20T01:50:00Z
 title: EdgeCrafter 检测 + 姿态双任务：原理、合并逻辑与部署实践
 draft: false
 tags:
